@@ -23,7 +23,7 @@ def criar_senha(x=None):
             x=int(info)
         except:
             #tratando a possibilidade do user digitar uma letra ou qualquer outra coisa menos um número inteiro (int).
-            msg_erro.configure(text="Ensira apenas números.")
+            msg_erro.configure(text="Ensira apenas números inteiros.")
             msg_erro.place(x=100,y=42)
             return 0
         msg_erro.configure(text="")

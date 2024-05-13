@@ -1,4 +1,4 @@
-# gerar-senha-com-python
+# gerarador-de-senha
 
 como o próprio nome já diz, gera uma senha. Você pode colocar quantos digitos quiser para sua senha.
 
